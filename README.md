@@ -16,9 +16,12 @@ Android Project built using flutter framework.
 . Fluent chatting with top notch features. Reviewing and profiling system for farmers.
 
 ## SCREENSHOTS
-. ![Home](https://i.ibb.co/4R4tyDSb/1.jpg)
-. ![Home](https://i.ibb.co/4R4tyDSb/1.jpg)
-. ![Home](https://i.ibb.co/4R4tyDSb/1.jpg)
+<div style="display: flex; gap: 10px;">
+  <img src="https://i.ibb.co/4R4tyDSb/1.jpg" alt="Home" width="300" border="0">
+  <img src="https://i.ibb.co/4R4tyDSb/1.jpg" alt="Home" width="300" border="0">
+  <img src="https://i.ibb.co/4R4tyDSb/1.jpg" alt="Home" width="300" border="0">
+</div>
+
 
 ## VERSION OF THIS PROJECT
 . Version 1.0.0 @ 2025-2-10
