@@ -1,16 +1,27 @@
-# farm_hub
+# Yo FarmHub
 
-A new Flutter project.
+Android Project built using flutter framework.
 
-## Getting Started
+## LOGIC USED IN THIS PROJECT
+. BloC State Management
+. API Integration w/ PHP+MYSQL backend
+. Shared Preferences
+. Responsive Design
+. Push Notifications
+. WebSocket imitation
 
-This project is a starting point for a Flutter application.
+## ABOUT APP
+. Social media platform for African farmers. 
+. Easily sell your farming products among fellow farmers. 
+. Fluent chatting with top notch features. Reviewing and profiling system for farmers.
 
-A few resources to get you started if this is your first Flutter project:
+## VERSION OF THIS PROJECT
+. Version 1.0.0 @ 2025-2-10
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## CONTACT ME
+. Telegram @ pr0af
+. Email @ o.m200233@gmail.com
+. Mobile @ +201122195310
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## THANK YOU
+. Please feel free to follow me and star my repo <3
