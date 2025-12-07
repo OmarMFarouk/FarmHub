@@ -18,7 +18,7 @@ Android Project built using flutter framework.
 ## SCREENSHOTS
 <div style="display: flex; gap: 10px;">
   <img src="https://i.ibb.co/mCnqKZCJ/Main-Screen-Flow.png" alt="Main-Screens Flow" width="200" border="0">
-  <img src="https://ibb.co/tp1QQJj6" alt="Auth-Screens Flow" width="200" border="0">
+  <img src="https://i.ibb.co/gZcmmRq8/Authentication-Screen-Flow.png" alt="Auth-Screens Flow" width="200" border="0">
 </div>
 
 
